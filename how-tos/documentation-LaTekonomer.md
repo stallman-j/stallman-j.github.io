@@ -169,7 +169,7 @@ I recommend trying this out if you're new to GitHub and you want to start gettin
 
     I use Sublime Tools (a speedy text editor that's a lot like VisualStudio) with LaTexTools. You can follow the installation [here](https://latextools.readthedocs.io/en/latest/install).
 
-    You can find more information about how to set up sublime [here](https://stallman-j.github.io/LaTekonomer/how-tos/using-sublime.html). 
+    You can find more information about how to set up sublime [here](https://stallman-j.github.io/how-tos/using-sublime/). 
 
     [Here's](https://stallman-j.github.io/LaTekonomer/how-tos/using-sublime.html#matching-sumatra) a test to see if we can get to a section on a page.
 
