@@ -25,6 +25,7 @@ navbar-links:
   About: "https://stallman-j.github.io/aboutme/"
   Ekonomer Suite:
     - LaTekonomer: "https://stallman-j.github.io/about-LaTekonomer/"
+    - LaTekonomer Repo README: "https://stallman-j.github.io/LaTekonomer/"
     - ekonomR: "https://stallman-j.github.io/about-ekonomR/"
     - test: "https://stallman-j.github.io/LaTekonomer/test/"
 
