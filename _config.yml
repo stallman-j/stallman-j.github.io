@@ -24,8 +24,8 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 navbar-links:
   About: "https://stallman-j.github.io/aboutme.html"
   Ekonomer Suite:
-    - LaTekonomer: "https://stallman-j.github.io/LaTekonomer"
-    - ekonomR: "https://stallman-j.github.io/ekonomR"
+    - LaTekonomer: "https://stallman-j.github.io/pages/LaTekonomer-about.html"
+    - ekonomR: "https://stallman-j.github.io/pages/ekonomR-about/"
 
 ################
 # --- Logo --- #
