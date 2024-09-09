@@ -22,12 +22,10 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  About: "https://stallman-j.github.io/aboutme"
   Ekonomer Suite:
     - LaTekonomer: "https://stallman-j.github.io/LaTekonomer/about-LaTekonomer"
-    - ekonomR: "https://stallman-j.github.io/ekonomR"
-  Other Resources:
-    - Markdown: "https://www.markdowntutorial.com/"
+    - ekonomR: "https://stallman-j.github.io/about-ekonomR"
 
 ################
 # --- Logo --- #
@@ -43,3 +41,21 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 title-img: "/assets/img/avatar-icon.png"
+
+######################################
+# --- Colours / background image --- #
+######################################
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+page-col: "#f3f3f3"
+text-col: "#150b2b"
+link-col: "#49356b"
+hover-col: "#6a548e"
+navbar-col: "#24134c"
+navbar-text-col: "#f3f3f3"
+navbar-border-col: "#6a548e"
+footer-col: "#24134c"
+footer-text-col: "#f3f3f3"
+footer-link-col: "#49356b"
+footer-hover-col: "#6a548e"
