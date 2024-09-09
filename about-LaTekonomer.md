@@ -42,6 +42,6 @@ LaTex isn't the only way to produce figures, tables, and commentary. The obvious
 
 If you're interested in exploring the Markdown world, check out [The Markdown Guide](https://www.markdownguide.org/book/), which integrates sublimely with R and GitHub. This README, for instance, is composed with Markdown.
 
-[Get Started with LaTekonomer]("https://stallman-j.github.io/how-tos/documentation-LaTekonomer")
+[Get Started with LaTekonomer](https://stallman-j.github.io/how-tos/documentation-LaTekonomer)
 
-Access via [Overleaf]("https://www.overleaf.com/read/mpdhvnnjzsxq#7e6598") or see the repository on [GitHub]("https://github.com/stallman-j/LaTekonomer")
+Access via [Overleaf](https://www.overleaf.com/read/mpdhvnnjzsxq#7e6598) or see the repository on [GitHub](https://github.com/stallman-j/LaTekonomer)
