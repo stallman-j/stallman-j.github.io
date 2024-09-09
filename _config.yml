@@ -26,6 +26,7 @@ navbar-links:
   Ekonomer Suite:
     - LaTekonomer: "https://stallman-j.github.io/about-LaTekonomer/"
     - ekonomR: "https://stallman-j.github.io/about-ekonomR/"
+    - test: "https://stallman-j.github.io/LaTekonomer/test/"
 
 ################
 # --- Logo --- #
