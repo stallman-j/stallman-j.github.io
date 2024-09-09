@@ -1,6 +1,8 @@
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-
+---
+layout: page
+title: ekonomR
+subtitle: R workflow package for economists
+---
 
 # ekonomR
 

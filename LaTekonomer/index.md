@@ -15,7 +15,6 @@ footer-col: "#318243"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
 footer-hover-col: "#f3f3f3"
-
 ---
 
 <p style="color:#677385; font-style:italic;">
