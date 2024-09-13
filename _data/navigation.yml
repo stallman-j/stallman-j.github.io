@@ -3,10 +3,7 @@ main:
   - title: "Home"
     url: https://stallman-j.github.io
   - title: "Ekonomer Suite"
-      - title: "LaTekonomer"
-        url: https://stallman-j.github.io/LaTekonomer/
-      - title: "ekonomR"
-        url: https://stallman-j.github.io/ekonomR/
+    url: https://stallman-j.github.io/LaTekonomer/
   - title: "ECON 412"
     url: https://stallman-j.github.io/LaTekonomer/how-tos/ECON-412_overleaf/
   - title: "About"
