@@ -16,17 +16,17 @@ $border-color: transparent;
      Colors
 ========================================================================== */
 
-$primary-color: #318243 !default;
+$primary-color: #24134c !default;
 
-$background-color: #fff !default;
+$background-color: #F1F1F1  !default;
 
-$footer-background-color: #318243 !default;
-
-
-$masthead-background-color: #318243 !default;
-$masthead-link-color: #ffffff !default;
-$masthead-link-color-hover: mix(#ffffff, $primary-color, 60%) !default;
+$footer-background-color: #24134c !default;
 
 
-$link-color: #318243 !default;
-$link-color-hover: mix(#fff, $link-color, 50%) !default;
+$masthead-background-color: #24134c !default;
+$masthead-link-color: #fff  !default;
+$masthead-link-color-hover: #6a548e !default;
+
+
+$link-color: #24134c !default;
+$link-color-hover: #6a548e !default;
