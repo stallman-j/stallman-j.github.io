@@ -12,19 +12,19 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"default" # "air", "aqua",# I like contrast "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "J Stallman"
+title                    : "My Site Title"
 title_separator          : "-"
-subtitle                 : "PhD Candidate, Yale University" # site tagline that appears below site title in masthead
-name                     : "J Stallman"
-description              : "Personal Site"
-url                      : "https://stallman-j.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"LaTekonomer" # the subpath of your site, e.g. "/blog"
-repository               : "stallman-j/stallman-j.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+subtitle                 : "Subtitle Site" # site tagline that appears below site title in masthead
+name                     : "My name"
+description              : "Description"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -121,19 +121,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:j.stallman@yale.edu"
-    - label: "J Stallman's Website"
+      url: #"mailto:name@mail.com"
+    - label: "Link"
       icon: "fas fa-fw fa-link"
-      url: "https://stallman-j.github.io"
+      url: #"https://stallman-j.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "LaTekonomer GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/stallman-j/LaTekonomer"
+      url: #https://github.com
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
