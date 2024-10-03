@@ -5,16 +5,18 @@ title: Data Sources
 layout: single
 toc: true
 toc_label: "Contents"
+toc_min_header: 1
+toc_max_header: 2
 toc_sticky: true
 author_profile: true
 date: "2024-10-02"
 ---
 
-# Good Data Sources for (Environmental) Projects
+# Data Sources for (Environmental) Projects
 
-Here's where I'll keep a running list of good data resources. I'll continue adding to this page, but if you have suggestions please [email me](mailto:j.stallman@yale.edu).
+Here's where I keep a running list of good data resources. I'll continue adding to this page, but if you have suggestions please [email me](mailto:j.stallman@yale.edu).
 
-## General Data
+## The Usual First Stops: General Data
 
 - [Our World in Data (OWID)](https://ourworldindata.org/): OWID may well be your first stop for just about any topic. 
 
@@ -22,39 +24,61 @@ Here's where I'll keep a running list of good data resources. I'll continue addi
 
   - A good place to start is to find the most recent well-published paper in your area, and check out what data sources they use. Recent papers will often link to a Zenodo repository with their data.
 
-## Trade Data
+## Trade
 
-- [UN Comtrade](https://comtradeplus.un.org/): this is the authoritative source for trade data, but it's a bit messy to work with. If you're working with R, the R package [comtradr](https://docs.ropensci.org/comtradr/index.html) has plenty of vignettes to get you set up.
+- [UN Comtrade](https://comtradeplus.un.org/): this is the authoritative source for trade data, but it's a bit messy to work with. 
+
+  - If you're working with R, the R package [comtradr](https://docs.ropensci.org/comtradr/index.html) has plenty of vignettes to access the API and help you along.
 
 
-## Emissions Data
+## Climate
 
+### Emissions
 - The [Global Carbon Budget](https://globalcarbonbudget.org/) provides estimates of territorial carbon emissions, emissions from consumption, and emissions transfers. You can access the cleaned data through my R package [ekonomR](https://stallman-j.github.io/ekonomR/), and several vignettes cover its exploration.
 
-- The International Energy Agency
+- The International Energy Agency[IEA] (emissions) (behind )
 
-## Climate Change Opinions
+### Opinions
 
 - The Yale Program on Climate Communication has been running [Climate Opinion Surveys](https://climatecommunication.yale.edu/visualizations-data/ycom-us/) since 2010.
 
 
-## Climate Data
+### Climate Data 
 
 Climate data is often generated as rasters (think pixels on a map). It requires an additional level of cleaning to translate these rasters into vectors (polygons like countries or points like cities) that we can run analysis on. 
 
 `ekonomR` vignettes will contain examples of this workflow (in progress).
 
-[Climate Data from Copernicus (ECMWF)](https://cds-beta.climate.copernicus.eu/)
+- [Climate Data from Copernicus (ECMWF)](https://cds-beta.climate.copernicus.eu/)
+- 
 
-## Geoengineering Simulations
+#### Geoengineering Simulations
 
-[Geoengineering Large Ensemble Project (GLENS)](https://www.cesm.ucar.edu/community-projects/glens)
-[Simulations from Cornell's Engineering Lab](https://climate-engineering.mae.cornell.edu/data/)
+- [Geoengineering Large Ensemble Project (GLENS)](https://www.cesm.ucar.edu/community-projects/glens)
+- [Simulations from Cornell's Engineering Lab](https://climate-engineering.mae.cornell.edu/data/)
 
 
-## Energy Price Data
+## Energy 
 
-[US Energy Information Administration (EIA)](https://www.eia.gov/): contains oil and natural gas prices along with lots of information on energy production
+### Energy Prices and Production
+
+#### United States
+
+- [US Energy Information Administration (EIA)](https://www.eia.gov/): contains oil and natural gas prices along with lots of information on energy production
+- [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/data-tools.html): has a wealth of data relating to renewable energy
+
+- [Texas Parks and Wildlife](https://tpwd.texas.gov/gis/): tons of geocoded environmental data, all about Texas! They also have a great set of links to supplementary data that would be useful in a Texas-related analysis.
+
+## Water
+
+### United States
+
+- [USGS Water Data](https://waterdata.usgs.gov/nwis): includes water quality data, water flow, levels of water and more. [Here](https://waterservices.usgs.gov/docs/) is the documentation for downloading help.
+
+### ROW
+
+- [African Database of Hydrometric Indices (ADHI): 1950-2018](https://essd.copernicus.org/articles/13/1547/2021/)
+
 
 ## Agriculture
 
@@ -70,6 +94,7 @@ Climate data is often generated as rasters (think pixels on a map). It requires 
 
 [fishR](https://fishr-core-team.github.io/fishR/): this website has tons of great resources and data
 
+
 ## Pollution
 
 ### Air Pollution
@@ -83,8 +108,8 @@ To add: the latest stratospheric rasters estimates.
 ### Water / Other Pollution
 
 
-# Fun Recommendations
+# Just for fun
 
-These aren't data, but just a compilation of recommendations that I find myself repeating.
+- If you feel fondness towards modern-day dinosaurs and appreciate quirkiness, you might enjoy [Rosemary Mosco's monthly bird newsletter](https://newsletter.rosemarymosco.com/).
 
-- If you feel any fondness towards birds and appreciate quirkiness, you might enjoy [Rosemary Mosco's monthly newsletter](https://newsletter.rosemarymosco.com/).
+- R got you down? Or are you an instructor teaching data/R and you are seeking an excuse to procrastinate with funny pictures that may make their way into your lectures? Then check out [Allison Horst's artwork](https://allisonhorst.com/everything-else)
