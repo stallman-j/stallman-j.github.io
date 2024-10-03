@@ -12,7 +12,8 @@ author_profile: true
 date: "2024-10-02"
 ---
 
-Here's where I keep a running list of good data resources. I'll continue adding to this page, but if you have suggestions please [email me](mailto:j.stallman@yale.edu).
+Here's where I keep a running list of good data resources. I'll continue adding to this page, but if you have suggestions please [email me](mailto:j.stallman@yale.edu). 
+
 
 # General Data-Finding
 
@@ -20,7 +21,11 @@ Here's where I keep a running list of good data resources. I'll continue adding 
 
   - They have a wealth of subjects and data sources. If you're using data you first accessed through OWID, you'll want to cite OWID as a source, but ultimately pull your data from the source that *they* pull from to make sure you've got the latest.
 
-- If you're totally stuck, try to find the most recent well-published paper in your area, and see what data sources they use. Recent papers will often link to a Zenodo repository with their data.
+- Try to find the most recent well-published paper in your area, and see what data sources they use. Recent papers will often link to a Zenodo repository with their data.
+
+# Country-Specific Data With Many Indicators
+
+- [Statistics Canada](https://www150.statcan.gc.ca/n1/en/type/data): contains a wealth of data all about Canada
 
 # Agriculture
 
@@ -69,6 +74,9 @@ Atmospheric data is often generated as rasters (think pixels on a map). It requi
 
 - [Texas Parks and Wildlife](https://tpwd.texas.gov/gis/): tons of geocoded environmental data, all about Texas! They also have a great set of links to supplementary data that would be useful in a Texas-related analysis.
 
+### Canada
+
+- [Statistics Canada: Oil Prices](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101)
 # Opinion Surveys
 
 - The Yale Program on Climate Communication has been running [Climate Opinion Surveys](https://climatecommunication.yale.edu/visualizations-data/ycom-us/) since 2010.
