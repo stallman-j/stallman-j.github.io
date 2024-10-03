@@ -14,7 +14,7 @@ date: "2024-10-02"
 
 Here's where I keep a running list of good data resources. I'll continue adding to this page, but if you have suggestions please [email me](mailto:j.stallman@yale.edu).
 
-# The Usual First Stops: General Data
+# General Data-Finding
 
 - [Our World in Data (OWID)](https://ourworldindata.org/): OWID may well be your first stop for just about any topic. 
 
