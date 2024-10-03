@@ -1,5 +1,5 @@
 ---
-title: Data Sources for (Environmental) Projects
+title: Data for Economics Projects
 #subtitle: Hopefully everything you need and lots of things you hopefully won't
 # https://bookdown.org/yihui/rmarkdown/html-document.html#floating-toc
 layout: single
@@ -12,7 +12,11 @@ author_profile: true
 date: "2024-10-02"
 ---
 
-Here's where I keep a running list of good data resources. I'll continue adding to this page, but if you have suggestions please [email me](mailto:j.stallman@yale.edu). 
+Here's where I keep a running list of good data resources. 
+
+Most of these data sources tend towards environmental or development economics, since that's what I'm familiar with.
+
+I'll add to this page as new data are brought to my attention, but if you have suggestions please [email me](mailto:j.stallman@yale.edu). 
 
 
 # General Data-Finding
@@ -23,13 +27,20 @@ Here's where I keep a running list of good data resources. I'll continue adding 
 
 - Try to find the most recent well-published paper in your area, and see what data sources they use. Recent papers will often link to a Zenodo repository with their data.
 
-# Country-Specific Data With Many Indicators
+# Country-Specific Data
 
+## Rich Countries
 - [Statistics Canada](https://www150.statcan.gc.ca/n1/en/type/data): contains a wealth of data all about Canada
+
+## Developing Countries
+
+- [Duncan Thomas at Duke](https://ipl.econ.duke.edu/dthomas/dev_data/) has a great compilation of data from developing countries
 
 # Agriculture
 
-[The US Department of Agriculture](https://www.usda.gov/): There's a reason so much research is done on the United States! The data is great! If the thing you're looking at is traded in a market in the United States, chances are pretty good the USDA is capturing something about it.
+- [The US Department of Agriculture](https://www.usda.gov/): There's a reason so much research is done on the United States! The data is great! If the thing you're looking at is traded in a market in the United States, chances are pretty good the USDA is capturing something about it.
+- [International Food Policy Research Institute (IFPRI)](https://dataverse.harvard.edu/dataverse/IFPRI): IFPRI has a wide range of datasets.
+
 
 # Animals
 
@@ -48,7 +59,7 @@ Atmospheric data is often generated as rasters (think pixels on a map). It requi
 `ekonomR` vignettes will contain examples of this workflow (in progress).
 
 - [Climate Data from Copernicus (ECMWF)](https://cds-beta.climate.copernicus.eu/)
-- 
+-
 
 ## Geoengineering Simulations
 
@@ -67,16 +78,25 @@ Atmospheric data is often generated as rasters (think pixels on a map). It requi
 
 ## Energy Prices and Production
 
-### United States
+**United States**
 
 - [US Energy Information Administration (EIA)](https://www.eia.gov/): contains oil and natural gas prices along with lots of information on energy production
 - [National Renewable Energy Laboratory](https://www.nrel.gov/analysis/data-tools.html): has a wealth of data relating to renewable energy
 
 - [Texas Parks and Wildlife](https://tpwd.texas.gov/gis/): tons of geocoded environmental data, all about Texas! They also have a great set of links to supplementary data that would be useful in a Texas-related analysis.
 
-### Canada
+**Canada**
 
 - [Statistics Canada: Oil Prices](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000101)
+
+# Household Panel Surveys
+
+Panel surveys are great because they allow us to track changes over time. They're difficult and costly to run, however, so there aren't very many high-quality ones.
+
+- [Ghana Socioeconomic Panel Survey](https://egc.yale.edu/data/isser-northwestern-yale-long-term-ghana-socioeconomic-panel-survey-gsps): currently on the fourth wave, starts in 2009 and the most recent in 2022
+- [Indonesian Family Life Survey](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS.html): longitudinal survey of India, with waves starting in 1993
+- [Mexican Family Life Survey](https://www.ennvih-mxfls.org/english/): three rounds, 2002, 2005-2006, and 2009-2012
+
 # Opinion Surveys
 
 - The Yale Program on Climate Communication has been running [Climate Opinion Surveys](https://climatecommunication.yale.edu/visualizations-data/ycom-us/) since 2010.
@@ -106,11 +126,11 @@ To add: the latest stratospheric rasters estimates.
 
 # Water
 
-## United States
+**United States**
 
 - [USGS Water Data](https://waterdata.usgs.gov/nwis): includes water quality data, water flow, levels of water and more. [Here](https://waterservices.usgs.gov/docs/) is the documentation for downloading help.
 
-## ROW
+**Africa**
 
 - [African Database of Hydrometric Indices (ADHI): 1950-2018](https://essd.copernicus.org/articles/13/1547/2021/)
 
