@@ -55,7 +55,7 @@ In the meantime, perhaps I might make some recommendations in sundry categories.
 
 ...
 
-- Okay, I lied. Miriam Bryant is an amazing singer.
+- Except though, Miriam Bryant is an excellent singer.
 
 ## Chinese
 
@@ -67,11 +67,11 @@ In the meantime, perhaps I might make some recommendations in sundry categories.
 ### Stats/Data Science
 
 - Joseph Blitzstein's [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home). I wish I'd discovered this a decade ago. He's *so* good. The textbook is free online, the lectures are clear and entertaining, and there are even some solutions in the textbook so you can make your own problem sets.
-- - R got you down? Or are you an instructor teaching data/R and you are seeking an excuse to procrastinate with funny pictures that may make their way into your lectures? Then check out [Allison Horst's artwork](https://allisonhorst.com/everything-else)
+- Are you an instructor teaching data/R and seeking an excuse to procrastinate with funny pictures that may make their way into your lectures? If so, check out [Allison Horst's artwork](https://allisonhorst.com/everything-else)
 
 ### Math for Economists
 
-- [U Arizona's Math Camp](https://www.youtube.com/c/ArizonaMathCamp). I wish someone had told me to go through this in the June before starting the PhD.
+- [U Arizona's Math Camp](https://www.youtube.com/c/ArizonaMathCamp). I wish someone had told me to go through this in the June before starting the PhD. Someone probably did. I wish I'd listened.
 
 
 ## Stuff
