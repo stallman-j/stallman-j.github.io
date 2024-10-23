@@ -9,4 +9,6 @@ author_profile: true
 </p>
 
 
-In progress!
+# Research
+
+Research details coming soon.

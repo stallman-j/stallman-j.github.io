@@ -17,10 +17,6 @@ I'd prefer to limit the biographical information about me that's available on th
 
 But I'm friendly! Send an email and say hi if you're so inclined or you'd like a CV.
 
-# Research
-
-Research details coming soon.
-
 
 # Recommendations 
 
