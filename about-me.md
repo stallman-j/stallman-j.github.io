@@ -39,7 +39,7 @@ Instead, how about some recommendations of fun and quirky things that make the w
 
 ## Espanish
 
-- Diana Uribe's [La Historia del Mundo](https://podcasts.apple.com/us/podcast/la-historia-del-mundo/id998521277) is a delightfully woven series. She talks clearly and at a storytelling pace, and keeps coming back to her main thread of argument. Also a great resource if you're a little rusty on your Spanish and want something interesting that you can get some passive time listening to without getting too lost.
+- Diana Uribe's [La Historia del Mundo](https://podcasts.apple.com/us/podcast/la-historia-del-mundo/id998521277). Uribe is a delightful storyteller. Also a great resource if you're a little rusty on your Spanish and want something interesting that you can get some passive time listening to without getting too lost.
 
 ## Francais
 
