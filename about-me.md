@@ -1,6 +1,5 @@
 ---
 layout: single
-title: It'll be fine
 ---
 
 
