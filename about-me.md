@@ -62,7 +62,7 @@ Instead, how about some recommendations of fun and quirky things that make the w
 
 ### Math/Stats
 
-- Joseph Blitzstein's [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home). I wish I'd discovered this a decade ago. He's *so* good. The textbook is free online, the lectures are delightful, and there are even some solutions in the textbook so you can make your own problem sets.
+- Joseph Blitzstein's [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home). I wish I'd discovered this a decade ago. He's *so* good. The textbook is free online, the lectures are clear and entertaining, and there are even some solutions in the textbook so you can make your own problem sets.
 
 #### Math Camp for Economists
 
