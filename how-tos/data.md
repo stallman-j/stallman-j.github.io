@@ -39,17 +39,18 @@ I'll add to this page as new data are brought to my attention, but if you have s
 # Agriculture
 
 - [The US Department of Agriculture](https://www.usda.gov/): There's a reason so much research is done on the United States! The data is great! If the thing you're looking at is traded in a market in the United States, chances are pretty good the USDA is capturing something about it.
-- [International Food Policy Research Institute (IFPRI)](https://dataverse.harvard.edu/dataverse/IFPRI): IFPRI has a wide range of datasets.
+- [International Food Policy Research Institute (IFPRI)](https://dataverse.harvard.edu/dataverse/IFPRI): IFPRI has a wide range of datasets on many countries. It's worth just browsing around.
 
 
 # Animals
 
 ## Birds
-[eBird](https://science.ebird.org/en/use-ebird-data/download-ebird-data-products): Cornell and the Audobon Society's registry of over 600 million birding observations since 2002. You need to request access (which can take around a week). Once you've done that, you can use [auk](https://cornelllabofornithology.github.io/auk/), the R package for eBird analysis.
+
+- [eBird](https://science.ebird.org/en/use-ebird-data/download-ebird-data-products): Cornell and the Audobon Society's registry of over 600 million birding observations since 2002. You need to request access (which can take around a week). Once you've done that, you can use [auk](https://cornelllabofornithology.github.io/auk/), the R package for eBird analysis.
 
 ## Fish and Other Aquatics
 
-[fishR](https://fishr-core-team.github.io/fishR/): this website has tons of great resources and data
+- [fishR](https://fishr-core-team.github.io/fishR/): this website has tons of great resources and data
 
 
 # Atmospheric Data 
@@ -59,7 +60,7 @@ Atmospheric data is often generated as rasters (think pixels on a map). It requi
 `ekonomR` vignettes will contain examples of this workflow (in progress).
 
 - [Climate Data from Copernicus (ECMWF)](https://cds-beta.climate.copernicus.eu/)
--
+
 
 ## Geoengineering Simulations
 
@@ -136,7 +137,7 @@ To add: the latest stratospheric rasters estimates.
 
 # Weather
 
-## United States
+**United States**
 
 - [Spatial Hazards Events and Losses Database (SHELDUS)](https://cemhs.asu.edu/sheldus/metadata): January 1960 to Dec 2022, includes hazards like thunderstorms and tornados at the county level
 
