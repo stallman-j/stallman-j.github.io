@@ -14,7 +14,6 @@ Send me an email and say hi if you're so inclined.
 
 Instead, how about some recommendations of things that I think make the world a wonderful place.
 
-
 # On the internet
 
 - If you feel fondness towards modern-day dinosaurs and appreciate quirkiness, you might enjoy [Rosemary Mosco's monthly bird newsletter](https://newsletter.rosemarymosco.com/). 
@@ -63,3 +62,8 @@ Instead, how about some recommendations of things that I think make the world a 
 - [U Arizona's Math Camp](https://www.youtube.com/c/ArizonaMathCamp). I wish someone had told me to go through this in the June before starting the PhD.
 
 
+# Stuff
+
+- **Tea**: I get mine from [Teasenz](https://www.teasenz.com/) these days and my quality of life is so much higher. 
+
+    - If you subscribe to the newsletter, wait for your tea of choice to drop 20%, and then buy 2kg in bulk for another 20% off, the price relative to quality is pretty close to what you could get in a reputable tea shop in China.
