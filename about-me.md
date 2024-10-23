@@ -1,5 +1,10 @@
 ---
 layout: single
+toc: true
+toc_label: "Contents"
+toc_sticky: true
+author_profile: true
+date: "2024-10-23"
 ---
 
 
@@ -12,7 +17,7 @@ I'd rather be a little mysterious about personal history and putting on the inte
 
 Send me an email and say hi if you're so inclined.
 
-Instead, how about some recommendations of things that I think make the world a wonderful place.
+Instead, how about some recommendations of things that I think make the world a wonderful place. I'm not getting any kickbacks or anything, I just realized I end up making these recommendations to a lot of people so why not have it in one place.
 
 # On the internet
 
