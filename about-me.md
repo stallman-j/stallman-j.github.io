@@ -37,11 +37,11 @@ Instead, how about some recommendations of things that I think make the world a 
 
 # Espanish
 
-- Diana Uribe's [La Historia del Mundo](https://podcasts.apple.com/us/podcast/la-historia-del-mundo/id998521277) is a delightfully woven series. The way she uses the word *papayazo* embodies all that delights me about Colombian Spanish.
+- Diana Uribe's [La Historia del Mundo](https://podcasts.apple.com/us/podcast/la-historia-del-mundo/id998521277) is a delightfully woven series. She talks clearly and at a storytelling pace, and keeps coming back to her main thread of argument. Also a great resource if you're a little rusty on your Spanish and want something interesting that you can get some passive time listening to without getting too lost.
 
 # Francais
 
-- [Le Monde Diplomatique](https://www.monde-diplomatique.fr/) is my favorite media subscription. They write perspectives you just don't get in the States often, and the audio version is a pleasure on the ear.
+- [Le Monde Diplomatique](https://www.monde-diplomatique.fr/) writes perspectives you just don't get in the States often, and the audio version is a pleasure on the ear.
 
 # Swedish
 
@@ -53,22 +53,22 @@ Instead, how about some recommendations of things that I think make the world a 
 
 # Chinese
 
-- Seriously, no, seriously, *Zhuangzi*. I need to find a good translation of this quirky Daoist genius, but he's so much fun and his stuff is so weird and thought-provoking.
+- Seriously, no, seriously, *Zhuangzi*. I need to find a good translation of this quirky Daoist genius. His stuff is so weird and thought-provoking.
 
 
 # Learning Resources
 
-## Math
+## Math/Stats
 
 - Joseph Blitzstein's [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home). I wish I'd discovered this a decade ago. He's *so* good. The textbook is free online, the lectures are delightful, and there are even some solutions in the textbook so you can make your own problem sets.
 
-## Math Camp for Economists
+### Math Camp for Economists
 
 - [U Arizona's Math Camp](https://www.youtube.com/c/ArizonaMathCamp). I wish someone had told me to go through this in the June before starting the PhD.
 
 
 # Stuff
 
-- **Tea**: I get mine from [Teasenz](https://www.teasenz.com/) these days and my quality of life is so much higher. 
+- **Tea**: I get mine from [Teasenz](https://www.teasenz.com/) these days, rather than pestering my pals to fill their suitcases.
 
-    - If you subscribe to the newsletter, wait for your tea of choice to drop 20%, and then buy 2kg in bulk for another 20% off, the price relative to quality is pretty close to what you could get in a reputable tea shop in China.
+    - If you subscribe to their newsletter, wait for your tea of choice to drop 20%, and then buy 2kg in bulk for another 20% off, the price relative to quality is pretty close to what you could get in a reputable tea shop in China.
