@@ -7,9 +7,10 @@ main:
   - title: "ekonomR"
     url: https://stallman-j.github.io/ekonomR/
   - title: "Resources"
-    - title: "Data"
-      url: https://stallman-j.github.io/how-tos/data
-    - title: "pCloud"
-      url: https://stallman-j.github.io/how-tos/pcloud-how-to
-    - title: "About"
-      url: https://stallman-j.github.io/about/
+    children:
+      - title: "Data"
+        url: https://stallman-j.github.io/how-tos/data
+      - title: "pCloud"
+        url: https://stallman-j.github.io/how-tos/pcloud-how-to
+      - title: "About"
+        url: https://stallman-j.github.io/about/
