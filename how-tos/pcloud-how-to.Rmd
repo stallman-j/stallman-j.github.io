@@ -63,7 +63,7 @@ Once you've downloaded the executable, click on it to install, and then click "L
 You'll be directed to sign in:
 
 ```{r, echo = FALSE, fig.cap = "Sign in with pCloud Drive"}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-10_sign-in-pcloud-drive?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-10_sign-in-pcloud-drive.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -74,7 +74,7 @@ Log in with the name and password you set when you made your account.
 You'll see the introduction page:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-11_intro-page?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-11_intro-page.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -83,7 +83,7 @@ knitr::include_graphics(url)
 Click "Next" and when you get to the last one, "Open Drive:"
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-12_open-drive?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-12_open-drive.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -92,7 +92,7 @@ knitr::include_graphics(url)
 The local folder for your pCloud Drive should show up as a virtual `P:` drive, with a folder structure like so:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-13_pcloud-drive-on-computer?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-13_pcloud-drive-on-computer.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -109,7 +109,7 @@ Click into the `buena-fe_internal-documents/archive/test` and open up the file `
 You'll be able to open this document on your local computer. On a PC the default application will be Notepad. It looks something like the following:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-14_edit-file?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-14_edit-file.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -118,7 +118,7 @@ knitr::include_graphics(url)
 Make a few changes to this file. The easiest thing to do is to follow in the style of the above, add a date and your name and the edit you make, like so:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-15_successful-edit?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-15_successful-edit.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -129,7 +129,7 @@ Then, save the file, and X out of the file.
 Now go to [the pCloud login page in your favorite browser](https://www.pcloud.com/) and sign in. You should be brought to your Home Page. This should contain the same structure of folders as you saw in your local `P:` drive. The page will look something like this:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-16_home-page-browser?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-16_home-page-browser.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -138,7 +138,7 @@ knitr::include_graphics(url)
 Click into the folders  `buena-fe_internal-documents` and then `archive` and then `test`. Your page should look like the following:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-17_test-edit-in-browser?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-17_test-edit-in-browser.png?raw=true"
 
 knitr::include_graphics(url)
 
@@ -149,7 +149,7 @@ Click on the `test-edit-file.txt`, which is the text file that you just edited.
 You should be able to see your additional changes, as below:
 
 ```{r, echo = FALSE, fig.cap = ""}
-url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-18_successful-edit-in-browser?raw=true"
+url <- "https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-18_successful-edit-in-browser.png?raw=true"
 
 knitr::include_graphics(url)
 
