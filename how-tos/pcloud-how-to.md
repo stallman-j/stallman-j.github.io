@@ -64,15 +64,24 @@ Log in with the name and password you set when you made your account.
 
 You'll see the introduction page:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-11_intro-page.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-11_intro-page.png?raw=true" alt="pCloud Drive Intro Page" width="100%" />
+<p class="caption">pCloud Drive Intro Page</p>
+</div>
 
 Click "Next" and when you get to the last one, "Open Drive:"
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-12_open-drive.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-12_open-drive.png?raw=true" alt="Open Drive" width="100%" />
+<p class="caption">Open Drive</p>
+</div>
 
 The local folder for your pCloud Drive should show up as a virtual `P:` drive, with a folder structure like so:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-13_pcloud-drive-on-computer.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-13_pcloud-drive-on-computer.png?raw=true" alt="pCloud Folder structure" width="100%" />
+<p class="caption">pCloud Folder structure</p>
+</div>
 
 If this doesn't pop up as soon as you clicked "Open Drive," go into your File Explorer (or Mac equivalent) and look for the `P:` drive and open it up.
 
@@ -84,27 +93,42 @@ Click into the `buena-fe_internal-documents/archive/test` and open up the file `
 
 You'll be able to open this document on your local computer. On a PC the default application will be Notepad. It looks something like the following:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-14_edit-file.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-14_edit-file.png?raw=true" alt="Edit File" width="100%" />
+<p class="caption">Edit File</p>
+</div>
 
 Make a few changes to this file. The easiest thing to do is to follow in the style of the above, add a date and your name and the edit you make, like so:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-15_successful-edit.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-15_successful-edit.png?raw=true" alt="Successful Edit" width="100%" />
+<p class="caption">Successful Edit</p>
+</div>
 
 Then, save the file, and X out of the file.
 
 Now go to [the pCloud login page in your favorite browser](https://www.pcloud.com/) and sign in. You should be brought to your Home Page. This should contain the same structure of folders as you saw in your local `P:` drive. The page will look something like this:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-16_home-page-browser.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-16_home-page-browser.png?raw=true" alt="pCloud on Browser" width="100%" />
+<p class="caption">pCloud on Browser</p>
+</div>
 
 Click into the folders  `buena-fe_internal-documents` and then `archive` and then `test`. Your page should look like the following:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-17_test-edit-in-browser.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-17_test-edit-in-browser.png?raw=true" alt="Test Folder" width="100%" />
+<p class="caption">Test Folder</p>
+</div>
 
 Click on the `test-edit-file.txt`, which is the text file that you just edited.
 
 You should be able to see your additional changes, as below:
 
-<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-18_successful-edit-in-browser.png?raw=true" width="100%" />
+<div class="figure">
+<img src="https://github.com/stallman-j/stallman-j.github.io/blob/gh-pages/man/figures/pcloud-vignette/pcloud-18_successful-edit-in-browser.png?raw=true" alt="Test File" width="100%" />
+<p class="caption">Test File</p>
+</div>
 
 Once you have that, you can close out: it means that you're able to sync back and forth between the work on your local machine.
 
