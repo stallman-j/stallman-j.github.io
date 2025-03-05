@@ -1,0 +1,102 @@
+
+
+
+
+# pCloud Vignette
+
+This is a general vignette for accessing pCloud, the Dropbox-but-better cloud, if you're collaborating with me on a project.
+
+These instructions are written with the example of the FARO-IDB-GIZ-Yale collaborative project on municipal transparency in Ecuador, but any collaborative project of mine will have a similar folder structure and example, so just modify accordingly.
+
+# Accessing the working documents cloud folder
+
+If you're an affiliate on a project working with internal documentation that requires you have access to files *not* housed in a public Github repo, you should receive a link to the shared internal documents folder. (Email [J](mailto:j.stallman@yale.edu) if you have not received one).
+
+This folder is shared through a cloud called "pCloud." It's similar to Dropbox and Box, in that there is a web interface and the option for a synced local drive.
+
+## Do I *need* an account?
+
+If you simply wish to have access to download, view, or upload files in the internal folder, you will *not* need a pCloud account, but you will need access to the folder's viewing link. Again, email J for this.
+
+If you need to make an account, check out 
+
+## 1. Make a pCloud account
+
+To make edits to files in this folder, you will first need to [create a pCloud account](https://www.pcloud.com/help/general-help-center/how-do-i-create-a-pcloud-account?gad_source=1&gclid=EAIaIQobChMIr8zW7JTziwMVjEr_AR299AiKEAAYASAAEgLqw_D_BwE). 
+
+You can just select the free version: pCloud's storage is such that data counts only against the host of the folder, which is J.
+
+## 2. Download pCloud Drive
+
+The local drive is called "pCloud Drive." Analogously to how Dropbox uses the `D:` drive by default, pCloud creates a virtual `P:` drive on your computer that you'll be able to access the same way you use Dropbox or Box.
+
+You can [download pCloud drive here](https://www.pcloud.com/download-free-online-cloud-file-storage.html).
+
+## 3. Sync pCloud folder
+
+
+## 
+
+Once you've downloaded the executable, click on it to install, and then click "Launch."
+
+You'll be directed to sign in:
+
+<div class="figure">
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-10_sign-in-pcloud-drive?raw=true" alt="Sign in with pCloud Drive" width="100%" />
+<p class="caption">Sign in with pCloud Drive</p>
+</div>
+
+Log in with the name and password you set when you made your account.
+
+You'll see the introduction page:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-11_intro-page?raw=true" width="100%" />
+
+Click "Next" and when you get to the last one, "Open Drive:"
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-12_open-drive?raw=true" width="100%" />
+
+The local folder for your pCloud Drive should show up as a virtual `P:` drive, with a folder structure like so:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-13_pcloud-drive-on-computer?raw=true" width="100%" />
+
+If this doesn't pop up as soon as you clicked "Open Drive," go into your File Explorer (or Mac equivalent) and look for the `P:` drive and open it up.
+
+## Verify that your sync is working correctly with the cloud
+
+Now we want to test and make sure that you're able to edit a document and that it syncs correctly up to pCloud with everyone on their shared folder.
+
+Click into the `buena-fe_internal-documents/archive/test` and open up the file `test-edit-file.txt`. This is just a text file made for testing purposes - nothing will be lost if you wreck it.
+
+You'll be able to open this document on your local computer. On a PC the default application will be Notepad. It looks something like the following:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-14_edit-file?raw=true" width="100%" />
+
+Make a few changes to this file. The easiest thing to do is to follow in the style of the above, add a date and your name and the edit you make, like so:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-15_successful-edit?raw=true" width="100%" />
+
+Then, save the file, and X out of the file.
+
+Now go to [the pCloud login page in your favorite browser](https://www.pcloud.com/) and sign in. You should be brought to your Home Page. This should contain the same structure of folders as you saw in your local `P:` drive. The page will look something like this:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-16_home-page-browser?raw=true" width="100%" />
+
+Click into the folders  `buena-fe_internal-documents` and then `archive` and then `test`. Your page should look like the following:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-17_test-edit-in-browser?raw=true" width="100%" />
+
+Click on the `test-edit-file.txt`, which is the text file that you just edited.
+
+You should be able to see your additional changes, as below:
+
+<img src="https://github.com/stallman-j/buena-fe/blob/main/documents/pictures/pcloud-vignette/pcloud-18_successful-edit-in-browser?raw=true" width="100%" />
+
+Once you have that, you can close out: it means that you're able to sync back and forth between the work on your local machine.
+
+## Troubleshooting
+
+If you find yourself editing a document with code or running code and you notice that your changes are being skipped - like the code reloads suddenly and erases your current revisions - reach out to J. 
+
+It's an issue that's known to occur with many virtual drives, and there's a solution with pCloud that works by syncronizing a folder on your local computer with the virtual folder, but you can end up deleting files you didn't mean to delete, so I'm not going to recommend it as the default setup.
+

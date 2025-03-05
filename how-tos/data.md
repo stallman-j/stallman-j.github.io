@@ -27,6 +27,8 @@ I'll add to this page as new data are brought to my attention, but if you have s
 
 - Try to find the most recent well-published paper in your area, and see what data sources they use. Recent papers will often link to a Zenodo repository with their data.
 
+- [Intergovernmental Authority on Development (IGAD)][https://www.icpac.net/data-center/] lists a bunch of the types of raster data common to economic analyses.
+
 # Country-Specific Data
 
 ## Rich Countries
@@ -53,7 +55,7 @@ I'll add to this page as new data are brought to my attention, but if you have s
 - [fishR](https://fishr-core-team.github.io/fishR/): this website has tons of great resources and data
 
 
-# Atmospheric Data 
+# Atmospheric Data
 
 Atmospheric data is often generated as rasters (think pixels on a map). It requires an additional level of cleaning to translate these rasters into vectors (polygons like countries or points like cities) that we can run analysis on. 
 
@@ -68,7 +70,7 @@ Atmospheric data is often generated as rasters (think pixels on a map). It requi
 - [Simulations from Cornell's Engineering Lab](https://climate-engineering.mae.cornell.edu/data/)
 
 
-# Energy 
+# Energy
 
 - [The International Energy Agency (IEA)](https://www.iea.org/): includes carbon capture projects, critical minerals, coal, electricity, greenhouse gas emissions, energy prices, and more. Requires you to log in to access the free datasets, and then there's a tier behind a paywall. (Vignette: to add, using your own login to download a dataset behind a paywall in R)
 
