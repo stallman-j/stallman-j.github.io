@@ -38,7 +38,7 @@ This folder is shared through a cloud called "pCloud." It's similar to Dropbox a
 
 If you simply wish to have access to download, view, or upload files in the internal folder, you will *not* need a pCloud account, but you will need access to the folder's viewing link. Again, email J for this.
 
-If you need to make an account, check out 
+If you need to make an account, please continue reading.
 
 ## 1. Make a pCloud account
 
