@@ -1,12 +1,15 @@
 # main links
 main:
-  - title: "Data"
-    url: https://stallman-j.github.io/how-tos/data/
   - title: "LaTekonomer"
     url: https://stallman-j.github.io/LaTekonomer
   - title: "ECON 412"
     url: https://stallman-j.github.io/LaTekonomer/how-tos/ECON-412_overleaf/
   - title: "ekonomR"
     url: https://stallman-j.github.io/ekonomR/
-  - title: "About"
-    url: https://stallman-j.github.io/about-me/
+  - title: "Resources"
+    - title: "Data"
+      url: https://stallman-j.github.io/how-tos/data
+    - title: "pCloud"
+      url: https://stallman-j.github.io/how-tos/pcloud-how-to
+    - title: "About"
+      url: https://stallman-j.github.io/about/
