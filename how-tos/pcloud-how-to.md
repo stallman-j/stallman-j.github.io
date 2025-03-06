@@ -45,10 +45,7 @@ The local drive is called "pCloud Drive." Analogously to how Dropbox uses the `D
 
 You can [download pCloud drive here](https://www.pcloud.com/download-free-online-cloud-file-storage.html).
 
-## 3. Sync pCloud folder
-
-
-## 
+## 3. Launch pCloud Drive
 
 Once you've downloaded the executable, click on it to install, and then click "Launch."
 
@@ -85,9 +82,11 @@ The local folder for your pCloud Drive should show up as a virtual `P:` drive, w
 
 If this doesn't pop up as soon as you clicked "Open Drive," go into your File Explorer (or Mac equivalent) and look for the `P:` drive and open it up.
 
-## Verify that your sync is working correctly with the cloud
+# Troubleshooting
 
-Now we want to test and make sure that you're able to edit a document and that it syncs correctly up to pCloud with everyone on their shared folder.
+## Verify that pCloud drive is syncing to the cloud
+
+If you're having trouble with files syncing, here's an easy way to verify that you're able to edit a document and that it syncs correctly up to pCloud with everyone on their shared folder.
 
 Click into the `buena-fe_internal-documents/archive/test` and open up the file `test-edit-file.txt`. This is just a text file made for testing purposes - nothing will be lost if you wreck it.
 
@@ -132,7 +131,7 @@ You should be able to see your additional changes, as below:
 
 Once you have that, you can close out: it means that you're able to sync back and forth between the work on your local machine.
 
-## Troubleshooting
+## Code Disappearing 
 
 If you find yourself editing a document with code or running code and you notice that your changes are being skipped - like the code reloads suddenly and erases your current revisions - reach out to J. 
 
